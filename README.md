@@ -59,7 +59,7 @@ npm run start
 
 - **Select Interview Options**
 
-![options]([https://github.com/moonkorea00/moonkorea/assets/78708082/4d582932-9940-4310-809c-2fa51ec8e0a4](https://raw.githubusercontent.com/HighAmbition211/GSC_Scraping/main/GSC-scraping.gif))
+![GSC Scraping Example](https://raw.githubusercontent.com/HighAmbition211/GSC_Scraping/main/GSC-scraping.gif)
 
 
 <br>
