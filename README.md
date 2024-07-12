@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
   <a href="https://github.com/HighAmbition211/GSC_Scraping" target="_blank" rel="noopener">
     <h1>GSC URL Scraper</h1>
