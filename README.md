@@ -30,6 +30,7 @@ You can easily type the content you want to search on Google Search Console as a
 
 ## Demo
 - **Download MP4 file for higher resolution**
+
 ![GSC Scraping Example](https://raw.githubusercontent.com/HighAmbition211/GSC_Scraping/main/GSC-scraping.gif)
 
 <br>
