@@ -29,7 +29,7 @@ You can easily type the content you want to search on Google Search Console as a
 <br>
 
 ## Demo
-- **Select Interview Options**
+- **Download MP4 file for higher resolution**
 ![GSC Scraping Example](https://raw.githubusercontent.com/HighAmbition211/GSC_Scraping/main/GSC-scraping.gif)
 
 <br>
