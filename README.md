@@ -6,8 +6,6 @@
 
 <br>
 
-<br>
-
 ## Getting Started
 Visit [Gmail SMTP Settings: Easy Step-by-Step Setup Guide](https://www.gmass.co/blog/gmail-smtp/) and set your credential sender, password and appPassword.
 
