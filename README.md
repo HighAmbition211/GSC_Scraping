@@ -59,22 +59,7 @@ npm run start
 
 - **Select Interview Options**
 
-![options](https://github.com/moonkorea00/moonkorea/assets/78708082/4d582932-9940-4310-809c-2fa51ec8e0a4)
-
-
-- **Record/Edit Answer**
-
-![speech_recognition](https://github.com/moonkorea00/tech-interview-GPT/assets/78708082/e6226cfe-18fa-457e-9475-2e811a739220)
-
-
-- **Get Interview Feedback**
-
-![feedback](https://github.com/moonkorea00/moonkorea/assets/78708082/f55de37f-c5b2-4d70-9246-cdb5f47a33df)
-
-
-- **View History and Retry Interview**
-
-![history](https://github.com/moonkorea00/moonkorea/assets/78708082/588d1cd5-6cf6-4aba-be8e-3cbb54ea74c4)
+![options]([https://github.com/moonkorea00/moonkorea/assets/78708082/4d582932-9940-4310-809c-2fa51ec8e0a4](https://raw.githubusercontent.com/HighAmbition211/GSC_Scraping/main/GSC-scraping.gif))
 
 
 <br>
